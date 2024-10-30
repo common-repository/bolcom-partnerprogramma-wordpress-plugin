@@ -1,0 +1,18 @@
+{
+    "name": "netvlies/bol-openapi-php-sdk",
+    "description": "The Bol OpenApi SDK for PHP developers enables you to easily develop products over the Bol OpenApi.",
+    "require": {
+        "kriswallsmith/buzz": "v0.5",
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristian Zondervan",
+            "email": "kristian.zondervan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "BolOpenApi": "src/" }
+    }
+}

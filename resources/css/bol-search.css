@@ -1,0 +1,66 @@
+.disable{display: none !important;}
+
+.toolbar .pager {
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: #ededed;
+    position: relative;
+    border-bottom-color: #ededed;
+    clear: both;
+}
+.toolbar .pager .pages {
+    right: 13px;
+}
+.toolbar .pager .pages ul li {
+    display: block;
+    float: left;
+}
+.toolbar .pager .pages ul li {
+    display: block;
+    float: left;
+    color: #636363;
+    text-decoration: none;
+    padding-right: 2px;
+    padding-left: 2px;
+    cursor: pointer;
+}
+.toolbar .pager .pages .previous {
+    display: block;
+    height: 18px;
+    /*width: 30px;*/
+    overflow: hidden;
+    padding: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+.toolbar .pager .pages .previous.disable {
+    cursor: auto;
+}
+.toolbar .pager .pages .next {
+    display: block;
+    height: 18px;
+    /*width: 30px;*/
+    overflow: hidden;
+    padding: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 5px;
+}
+.toolbar .pager .pages .next.disable {
+    color: #ACACAC;
+    cursor: auto;
+}
+
+.toolbar .pager .pages ul .current {
+    background-color: #ededed;
+    padding-right: 2px;
+    padding-left: 2px;
+    color: #ACACAC;
+    margin-right: 3px;
+    margin-left: 3px;
+}

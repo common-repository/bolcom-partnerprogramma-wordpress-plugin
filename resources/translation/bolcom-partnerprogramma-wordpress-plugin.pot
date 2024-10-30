@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bolcom-partnerprogramma-wordpress-plugin\n"
+"POT-Creation-Date: 2013-08-08 09:11+0100\n"
+"PO-Revision-Date: 2013-08-08 09:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: Netvlies Internetdiensten\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../src/BolPartnerPlugin/Plugin.php:216
+#, php-format
+msgid ""
+"%s: Plugin is not configured! Please correct in the <a href=\"%s\" target="
+"\"_self\">settings page</a>"
+msgstr ""
+""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:51
+msgid "Partner program settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:55
+msgid "Open API settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:60
+msgid "Standard widget settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:66
+msgid "Partner SiteId"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:81
+msgid "API Access Key"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:89
+msgid "API Secret Key"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:97
+#: ../../src/ajax/popup/includes/properties.inc.php:28
+#: ../../src/ajax/popup/includes/properties.inc.php:33
+msgid "Title"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:108
+#: ../../src/ajax/popup/includes/properties.inc.php:34
+msgid "Subtitle"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:119
+#: ../../src/ajax/popup/includes/properties.inc.php:35
+msgid "Price type"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:130
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductRenderer.php:291
+#: ../../src/ajax/popup/includes/properties.inc.php:36
+msgid "Price"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:141
+#: ../../src/ajax/popup/includes/properties.inc.php:37
+msgid "Delivery time"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:152
+#: ../../src/ajax/popup/includes/properties.inc.php:38
+msgid "Background"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:163
+#: ../../src/ajax/popup/includes/properties.inc.php:39
+msgid "Border"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:174
+#: ../../src/ajax/popup/includes/properties.inc.php:56
+msgid "Show bol.com logo"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:185
+#: ../../src/ajax/popup/includes/properties.inc.php:58
+msgid "Show rating"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:196
+#: ../../src/ajax/popup/includes/properties.inc.php:59
+msgid "Show price"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:207
+#: ../../src/ajax/popup/includes/properties.inc.php:60
+msgid "Show delivery time"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:270
+msgid "Bol.com partner plugin settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:271
+msgid ""
+"You can get API keys by registering on <a href=\"http://developers.bol.com\" "
+"target=\"_blank\">http://developers.bol.com</a> and then filling in the "
+"subscription form for the keys on your profile page. We ask you to use the "
+"same email address and website to register, that you have used inside the "
+"Partner Pogram. It is your own responsibility for what is performed through "
+"your identity key. Be careful it stays yours and is not used in any other "
+"way."
+msgstr ""
+""
+
+#: ../../src/BolPartnerPlugin/Widgets/SelectedProducts.php:70
+msgid "Bol.com Products Widget"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/SelectedProducts.php:91
+#: ../../src/BolPartnerPlugin/Widgets/Bestsellers.php:91
+#: ../../src/BolPartnerPlugin/Widgets/SearchForm.php:94
+msgid "Widget settings..."
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/SelectedProducts.php:197
+msgid "Bol.com Products widget settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Bestsellers.php:70
+msgid "Bol.com Bestsellers Widget"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Bestsellers.php:186
+msgid "Bol.com Bestsellers widget settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/SearchForm.php:73
+msgid "Bol.com Search Widget"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/SearchForm.php:204
+#, fuzzy
+msgid "Bol.com Search-form widget settings"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Widget.php:53
+msgid "Widget title"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductSearchFormRenderer.php:121
+#: ../../src/ajax/popup/product-link.php:35
+msgid "Search"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductSearchFormRenderer.php:148
+#: ../../src/ajax/popup/bestsellers.php:26
+#: ../../src/ajax/popup/bestsellers.php:29
+#: ../../src/ajax/popup/search-form.php:24
+#: ../../src/ajax/popup/product-link.php:31
+#: ../../src/ajax/popup/includes/header.inc.php:25
+msgid "Select category"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductRenderer.php:236
+msgid "Best price"
+msgstr ""
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductRenderer.php:289
+msgid "From"
+msgstr ""
+
+#: ../../src/ajax/bol-products-widget.php:33
+#: ../../src/ajax/bol-products-widget.php:36
+#: ../../src/ajax/bol-search-form-widget.php:28
+#: ../../src/ajax/bol-search-form-widget.php:30
+#: ../../src/ajax/bol-search-form-widget.php:57
+#: ../../src/ajax/bol-search-form-widget.php:59
+#: ../../src/ajax/bol-search-form-widget.php:90
+#: ../../src/ajax/bol-search-form-widget.php:93
+#: ../../src/ajax/bol-search.php:112
+#: ../../src/ajax/bol-bestsellers-widget.php:35
+#: ../../src/ajax/bol-bestsellers-widget.php:37
+msgid "Error: Connection with Bol.com cannot be established"
+msgstr ""
+
+#: ../../src/ajax/bol-search-form-widget.php:88
+#: ../../src/ajax/bol-search.php:109
+msgid "No products found"
+msgstr ""
+
+#: ../../src/ajax/bol-search.php:126 ../../src/ajax/bol-search.php:144
+msgid "Error: Categories could not be loaded from the Bol.com API"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:13
+#: ../../src/ajax/popup/bestsellers.php:19
+msgid "Insert bestsellers"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:24
+#: ../../src/ajax/popup/search-form.php:23
+msgid "Select group"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:31
+#: ../../src/ajax/popup/bestsellers.php:34
+#: ../../src/ajax/popup/bestsellers.php:36
+#: ../../src/ajax/popup/bestsellers.php:39
+#: ../../src/ajax/popup/bestsellers.php:41
+#: ../../src/ajax/popup/includes/header.inc.php:26
+msgid "Select subcategory"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:44
+#: ../../src/ajax/popup/bestsellers.php:45
+msgid "Select price"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:47
+msgid "Limit"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:68
+#: ../../src/ajax/popup/search-form.php:50
+#: ../../src/ajax/popup/product-link.php:77
+msgid "Save"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:71
+#: ../../src/ajax/popup/search-form.php:53
+#: ../../src/ajax/popup/product-link.php:80
+msgid "Insert"
+msgstr ""
+
+#: ../../src/ajax/popup/bestsellers.php:72
+#: ../../src/ajax/popup/search-form.php:54
+#: ../../src/ajax/popup/product-link.php:81
+msgid "Cancel"
+msgstr ""
+
+#: ../../src/ajax/popup/search-form.php:12
+#: ../../src/ajax/popup/search-form.php:19
+msgid "Insert search functionallity"
+msgstr ""
+
+#: ../../src/ajax/popup/search-form.php:26
+msgid "Show select field on website"
+msgstr ""
+
+#: ../../src/ajax/popup/search-form.php:28
+msgid "Default search value"
+msgstr ""
+
+#: ../../src/ajax/popup/search-form.php:29
+msgid "Number of products shown"
+msgstr ""
+
+#: ../../src/ajax/popup/product-link.php:12
+#: ../../src/ajax/popup/product-link.php:19
+msgid "Insert product link"
+msgstr ""
+
+#: ../../src/ajax/popup/product-link.php:23
+msgid "Select product"
+msgstr ""
+
+#: ../../src/ajax/popup/product-link.php:24
+msgid "Configure product link"
+msgstr ""
+
+#: ../../src/ajax/popup/product-link.php:36
+msgid "To step 2"
+msgstr ""
+
+#: ../../src/ajax/popup/product-link.php:40
+msgid "Select products to add"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:27
+msgid "Load preview"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:28
+msgid "Choose a limit between 1-25"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:29
+msgid "Please fill in the required name"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:30
+msgid "Please fill a search term"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:31
+msgid "Retrieving products"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:32
+msgid "Productlink"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:33
+msgid "Bestsellers"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:34
+msgid "Search widget"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:35
+msgid "Changes saved"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/header.inc.php:36
+msgid "Saving error"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:23
+msgid "Name"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:23
+msgid "Required"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:24
+msgid "SubId"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:24
+msgid "Optional"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:33
+msgid "Link"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:43
+msgid "Width"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:47
+msgid "Columns"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:62
+msgid "Link opens in"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:63
+msgid "New window"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:63
+msgid "Same window"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:64
+msgid "Image size"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:65
+msgid "Big"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/properties.inc.php:65
+msgid "Small"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/preview.inc.php:11
+msgid "Preview"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/preview.inc.php:12
+msgid "Refresh"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/add.inc.php:61
+#, fuzzy
+msgid "Error: Bol.com promotions could not be loaded"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/add.inc.php:68
+msgid "Bol.com promotions"
+msgstr ""
+
+#: ../../src/ajax/popup/includes/add.inc.php:69
+msgid "These promotions are currently active at Bol.com"
+msgstr ""
+
+#, fuzzy
+#~ msgid "No results found"
+#~ msgstr ""
+
+#~ msgid "Products are retrieved"
+#~ msgstr ""

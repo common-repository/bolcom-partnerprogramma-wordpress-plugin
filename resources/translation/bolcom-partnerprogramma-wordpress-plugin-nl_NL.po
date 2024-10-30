@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bolcom-partnerprogramma-wordpress-plugin\n"
+"POT-Creation-Date: 2014-01-29 10:26+0100\n"
+"PO-Revision-Date: 2014-01-29 10:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Netvlies Internetdiensten\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../src/BolPartnerPlugin/Plugin.php:216
+#, php-format
+msgid ""
+"%s: Plugin is not configured! Please correct in the <a href=\"%s\" target="
+"\"_self\">settings page</a>"
+msgstr ""
+"%s: Plugin is niet geconfigureerd! Vul de instellingen in op de <a href=\"%s"
+"\" target=\"_self\">instellingen pagina</a>"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:53
+msgid "Partner program settings"
+msgstr "Partner programma instellingen"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:57
+msgid "Open API settings"
+msgstr "Open API instellingen"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:62
+msgid "Standard widget settings"
+msgstr "Standaard widget instellingen"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:68
+msgid "Partner SiteId"
+msgstr "Partner SiteId"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:77
+msgid ""
+"Your partner site id. You can find this by logging in on <a href=\"http://"
+"partnerprogramma.bol.com\" target=\"_blank\">http://partnerprogramma.bol."
+"com</a>"
+msgstr ""
+"Vul je hier je partner site id in. Deze kun je vinden door in te loggen op "
+"<a href=\"http://partnerprogramma.bol.com\" target=\"_blank\">http://"
+"partnerprogramma.bol.com</a>"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:83
+msgid "API Access Key"
+msgstr "API Acces Key"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:89
+msgid ""
+"Your API access key. You can find this by logging in on <a href=\"http://"
+"developers.bol.com\" target=\"_blank\">http://developers.bol.com</a>"
+msgstr ""
+"Vul je hier je API access key in. Deze kun je vinden door in te loggen op <a "
+"href=\"http://developers.bol.com\" target=\"_blank\">http://developers.bol."
+"com</a>"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:95
+msgid "API Secret Key"
+msgstr "API Secret Key"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:102
+msgid ""
+"Your API secret key. You can find this by logging in on <a href=\"http://"
+"developers.bol.com\" target=\"_blank\">http://developers.bol.com</a>"
+msgstr ""
+"Vul je hier je API secret key in. Deze kun je vinden door in te loggen op <a "
+"href=\"http://developers.bol.com\" target=\"_blank\">http://developers.bol."
+"com</a>"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:108
+#: ../../src/ajax/popup/includes/properties.inc.php:39
+#: ../../src/ajax/popup/includes/properties.inc.php:51
+msgid "Title"
+msgstr "Titel"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:119
+#: ../../src/ajax/popup/includes/properties.inc.php:59
+msgid "Subtitle"
+msgstr "Subtitel"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:130
+#: ../../src/ajax/popup/includes/properties.inc.php:67
+msgid "Price type"
+msgstr "Prijs type"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:141
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductRenderer.php:293
+#: ../../src/ajax/popup/includes/properties.inc.php:75
+msgid "Price"
+msgstr "Prijs"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:152
+#: ../../src/ajax/popup/includes/properties.inc.php:83
+msgid "Delivery time"
+msgstr "Levertijd"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:163
+#: ../../src/ajax/popup/includes/properties.inc.php:91
+msgid "Background"
+msgstr "Achtergrond"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:174
+#: ../../src/ajax/popup/includes/properties.inc.php:99
+msgid "Border"
+msgstr "Rand"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:185
+#: ../../src/ajax/popup/includes/properties.inc.php:144
+msgid "Show bol.com logo"
+msgstr "Toon bol.com logo"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:196
+#: ../../src/ajax/popup/includes/properties.inc.php:146
+msgid "Show rating"
+msgstr "Toon beoordeling"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:207
+#: ../../src/ajax/popup/includes/properties.inc.php:147
+msgid "Show price"
+msgstr "Toon prijs"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:218
+#: ../../src/ajax/popup/includes/properties.inc.php:148
+msgid "Show delivery time"
+msgstr "Toon levertijd"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:281
+msgid "Bol.com partner plugin settings"
+msgstr "Bol.com partner plugin instellingen"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:282
+msgid ""
+"You can get API keys by registering on <a href=\"http://developers.bol.com\" "
+"target=\"_blank\">http://developers.bol.com</a> and then filling in the "
+"subscription form for the keys on your profile page. We ask you to use the "
+"same email address and website to register, that you have used inside the "
+"Partner Pogram. It is your own responsibility for what is performed through "
+"your identity key. Be careful it stays yours and is not used in any other "
+"way."
+msgstr ""
+"Je kunt de API keys verkrijgen door jezelf te registreren op <a href="
+"\"http://developers.bol.com\" target=\"_blank\">http://developers.bol.com</"
+"a> en vervolgens het aanvraagformulier voor de API key in te vullen op je "
+"profielpagina. We willen je hierbij verzoeken om het e-mailadres en de "
+"website te registreren, waarmee je ook actief bent binnen het "
+"Partnerprogramma. Je bent zelf verantwoordelijk voor alles wat er vanuit "
+"jouw toegangskey wordt gedaan. Zorg er dus voor dat deze nooit in andermans "
+"handen komt of op enige manier misbruikt wordt."
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:288
+msgid "Bol.com Open API connection test"
+msgstr "Bol.com Open API connectie test"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:302
+msgid "Status returned by the Bol.com Open API:<br />"
+msgstr "De ontvangen status van Bol.com Open API:<br />"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:305
+msgid "Successful"
+msgstr "Succesvol"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:306
+msgid "Your Bol.com Open API settings are set correctly"
+msgstr "Je Bol.com Open API instellingen zijn goed ingesteld"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:313
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:318
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:323
+msgid ""
+"If you are sure your API keys are correct check the API status on <a href="
+"\"http://developers.bol.com\" target=\"_blank\">http://developers.bol.com</a>"
+msgstr ""
+"Als je zeker weet dat je API keys goed zijn ingesteld controleer dan de API "
+"status op <a href=\"http://developers.bol.com\" target=\"_blank\">http://"
+"developers.bol.com</a>"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:316
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:321
+#: ../../src/ajax/bol-products-widget.php:33
+#: ../../src/ajax/bol-products-widget.php:36
+#: ../../src/ajax/bol-search-form-widget.php:28
+#: ../../src/ajax/bol-search-form-widget.php:30
+#: ../../src/ajax/bol-search-form-widget.php:57
+#: ../../src/ajax/bol-search-form-widget.php:59
+#: ../../src/ajax/bol-search-form-widget.php:94
+#: ../../src/ajax/bol-search.php:119
+#: ../../src/ajax/bol-bestsellers-widget.php:35
+#: ../../src/ajax/bol-bestsellers-widget.php:37
+msgid "Error: Connection with Bol.com cannot be established"
+msgstr "Fout: Er kan geen verbinding worden gemaakt met Bol.com"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:328
+msgid "Please set your API access key"
+msgstr "Stel je API access key in"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:332
+msgid "Please set your API secret key"
+msgstr "Stel je API secret key in"
+
+#: ../../src/BolPartnerPlugin/AdminPage/Config.php:356
+msgid ""
+"Change the default settings of your new widgets. Settings of previous "
+"inserted widgets won't be changed."
+msgstr ""
+"Pas hier de standaard instellingen voor je nieuwe widgets aan. Instellingen "
+"van al eerder toegevoegde widgets worden niet gewijzigd."
+
+#: ../../src/BolPartnerPlugin/Widgets/SelectedProducts.php:70
+msgid "Bol.com Products Widget"
+msgstr "Bol.com Product Widget"
+
+#: ../../src/BolPartnerPlugin/Widgets/SelectedProducts.php:91
+#: ../../src/BolPartnerPlugin/Widgets/Bestsellers.php:91
+#: ../../src/BolPartnerPlugin/Widgets/SearchForm.php:94
+msgid "Widget settings..."
+msgstr "Widget instellingen.."
+
+#: ../../src/BolPartnerPlugin/Widgets/SelectedProducts.php:197
+msgid "Bol.com Products widget settings"
+msgstr "Bol.com Productlink widget instellingen"
+
+#: ../../src/BolPartnerPlugin/Widgets/Bestsellers.php:70
+msgid "Bol.com Bestsellers Widget"
+msgstr "Bol.com Bestellerlijst Widget"
+
+#: ../../src/BolPartnerPlugin/Widgets/Bestsellers.php:186
+msgid "Bol.com Bestsellers widget settings"
+msgstr "Bol.com Bestsellerlijst widget instellingen"
+
+#: ../../src/BolPartnerPlugin/Widgets/SearchForm.php:73
+msgid "Bol.com Search Widget"
+msgstr "Bol.com Zoek Widget"
+
+#: ../../src/BolPartnerPlugin/Widgets/SearchForm.php:204
+msgid "Bol.com Search-form widget settings"
+msgstr "Bol.com Zoek form widget instellingen"
+
+#: ../../src/BolPartnerPlugin/Widgets/Widget.php:53
+msgid "Widget title"
+msgstr "Widget titel"
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductSearchFormRenderer.php:121
+#: ../../src/ajax/popup/product-link.php:34
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductSearchFormRenderer.php:148
+#: ../../src/ajax/popup/bestsellers.php:35
+#: ../../src/ajax/popup/bestsellers.php:41
+#: ../../src/ajax/popup/search-form.php:35
+#: ../../src/ajax/popup/product-link.php:32
+#: ../../src/ajax/popup/includes/header.inc.php:25
+msgid "Select category"
+msgstr "Selecteer categorie"
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductRenderer.php:238
+msgid "Best price"
+msgstr "Toon prijs"
+
+#: ../../src/BolPartnerPlugin/Widgets/Renderer/ProductRenderer.php:291
+#: ../../src/ajax/popup/includes/add.inc.php:95
+msgid "From"
+msgstr "Vanaf"
+
+#: ../../src/ajax/bol-search.php:116
+msgid "No products found"
+msgstr "Geen producten gevonden"
+
+#: ../../src/ajax/bol-search.php:133 ../../src/ajax/bol-search.php:151
+msgid "Error: Categories could not be loaded from the Bol.com API"
+msgstr "Fout: Er konden geen categoriën worden opgehaald bij de bol.com API"
+
+#: ../../src/ajax/popup/bestsellers.php:13
+#: ../../src/ajax/popup/bestsellers.php:19
+msgid "Insert bestsellers"
+msgstr "Bestsellers invoegen"
+
+#: ../../src/ajax/popup/bestsellers.php:31
+#: ../../src/ajax/popup/search-form.php:30
+msgid "Select group"
+msgstr "Selecteer groep"
+
+#: ../../src/ajax/popup/bestsellers.php:45
+#: ../../src/ajax/popup/bestsellers.php:51
+#: ../../src/ajax/popup/bestsellers.php:55
+#: ../../src/ajax/popup/bestsellers.php:61
+#: ../../src/ajax/popup/bestsellers.php:65
+#: ../../src/ajax/popup/includes/header.inc.php:26
+msgid "Select subcategory"
+msgstr "Selecteer subcategorie"
+
+#: ../../src/ajax/popup/bestsellers.php:71
+#: ../../src/ajax/popup/bestsellers.php:75
+msgid "Select price"
+msgstr "Selecteer prijs"
+
+#: ../../src/ajax/popup/bestsellers.php:96
+msgid "Limit"
+msgstr "Limiet"
+
+#: ../../src/ajax/popup/bestsellers.php:113
+#: ../../src/ajax/popup/search-form.php:75
+#: ../../src/ajax/popup/product-link.php:79
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../../src/ajax/popup/bestsellers.php:116
+#: ../../src/ajax/popup/search-form.php:78
+#: ../../src/ajax/popup/product-link.php:82
+msgid "Insert"
+msgstr "Invoegen"
+
+#: ../../src/ajax/popup/bestsellers.php:117
+#: ../../src/ajax/popup/search-form.php:79
+#: ../../src/ajax/popup/product-link.php:83
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../../src/ajax/popup/search-form.php:12
+#: ../../src/ajax/popup/search-form.php:19
+msgid "Insert search functionallity"
+msgstr "Zoek functionaliteit invoegen"
+
+#: ../../src/ajax/popup/search-form.php:39
+msgid "Show select field on website"
+msgstr "Selectieveld op site weergeven"
+
+#: ../../src/ajax/popup/search-form.php:45
+msgid "Default search value"
+msgstr "Standaard zoek waarde"
+
+#: ../../src/ajax/popup/search-form.php:53
+msgid "Number of products shown"
+msgstr "Aantal te tonen producten"
+
+#: ../../src/ajax/popup/product-link.php:12
+#: ../../src/ajax/popup/product-link.php:19
+msgid "Insert product link"
+msgstr "Product link invoegen"
+
+#: ../../src/ajax/popup/product-link.php:23
+msgid "Select product"
+msgstr "Selecteer product"
+
+#: ../../src/ajax/popup/product-link.php:24
+msgid "Configure product link"
+msgstr "Configureer product link"
+
+#: ../../src/ajax/popup/product-link.php:35
+msgid "To step 2"
+msgstr "Naar stap 2"
+
+#: ../../src/ajax/popup/product-link.php:43
+msgid "Select products to add"
+msgstr "Selecteer producten om in te voegen"
+
+#: ../../src/ajax/popup/includes/header.inc.php:27
+msgid "Load preview"
+msgstr "Laad preview"
+
+#: ../../src/ajax/popup/includes/header.inc.php:28
+msgid "Choose a limit between 1-25"
+msgstr "Kies een limiet tussen 1-25"
+
+#: ../../src/ajax/popup/includes/header.inc.php:29
+msgid "Please fill in the required name"
+msgstr "Het invullen van het veld \"naam\" is verplicht"
+
+#: ../../src/ajax/popup/includes/header.inc.php:30
+msgid "Please fill a search term"
+msgstr "Vul een zoekterm in"
+
+#: ../../src/ajax/popup/includes/header.inc.php:31
+msgid "Retrieving products"
+msgstr "Producten worden opgehaald"
+
+#: ../../src/ajax/popup/includes/header.inc.php:32
+msgid "Productlink"
+msgstr "Product link"
+
+#: ../../src/ajax/popup/includes/header.inc.php:33
+msgid "Bestsellers"
+msgstr "Bestellerslijst"
+
+#: ../../src/ajax/popup/includes/header.inc.php:34
+msgid "Search widget"
+msgstr "Zoek widget"
+
+#: ../../src/ajax/popup/includes/header.inc.php:35
+msgid "Changes saved"
+msgstr "Wijzigingen zijn opgeslagen"
+
+#: ../../src/ajax/popup/includes/header.inc.php:36
+msgid "Saving error"
+msgstr "Er is een fout met het opslaan van de wijzigingen"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:24
+msgid "Name"
+msgstr "Naam"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:24
+msgid "Required"
+msgstr "Verplicht"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:30
+msgid "SubId"
+msgstr "SubId"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:30
+msgid "Optional"
+msgstr "Optioneel"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:51
+msgid "Link"
+msgstr "Link"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:110
+msgid "Width"
+msgstr "Breedte"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:126
+msgid "Columns"
+msgstr "Kolommen"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:153
+msgid "Link opens in"
+msgstr "Link openen in nieuw venster"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:156
+msgid "New window"
+msgstr "Nieuw venster"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:157
+msgid "Same window"
+msgstr "Zelfde venster"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:162
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:165
+msgid "Big"
+msgstr "Groot"
+
+#: ../../src/ajax/popup/includes/properties.inc.php:166
+msgid "Small"
+msgstr "Klein"
+
+#: ../../src/ajax/popup/includes/preview.inc.php:11
+msgid "Preview"
+msgstr "Preview"
+
+#: ../../src/ajax/popup/includes/preview.inc.php:12
+msgid "Refresh"
+msgstr "Vernieuwen"
+
+#: ../../src/ajax/popup/includes/add.inc.php:61
+msgid "Error: Bol.com promotions could not be loaded"
+msgstr "Fout: Bol.com acties konden niet worden geladen"
+
+#: ../../src/ajax/popup/includes/add.inc.php:67
+msgid "Show the Bol.com promotions of a selected category"
+msgstr "Bekijk hier de bol.com acties uit de geselecteerde categorie"
+
+#: ../../src/ajax/popup/includes/add.inc.php:70
+msgid "These promotions are currently active at Bol.com."
+msgstr "De onderstaande acties zijn momenteel actief bij Bol.com."
+
+#: ../../src/ajax/popup/includes/add.inc.php:71
+msgid ""
+"These promotion links are ready to use. Copy them and use them directly."
+msgstr ""
+"De promotielinks zijn klaar voor gebruik. Je kunt ze kopiëren en direct "
+"gebruiken."
+
+#: ../../src/ajax/popup/includes/add.inc.php:96
+msgid "till"
+msgstr "tot"
+
+#~ msgid ""
+#~ "You can copy these promotion links and use them directly. Your unique "
+#~ "partner id is already added so they are ready to use."
+#~ msgstr ""
+#~ "Je kunt deze actielinks kopiërenen en direct gebruiken. Je unieke partner "
+#~ "id is al toegevoegd dus ze zijn klaar voor gebruik. "
+
+#~ msgid "Till"
+#~ msgstr "tot"
+
+#~ msgid "Bol.com promotions"
+#~ msgstr "Bol.com acties"
+
+#, fuzzy
+#~ msgid "No results found"
+#~ msgstr "Geen producten gevonden"
+
+#~ msgid "Products are retrieved"
+#~ msgstr "Producten worden geladen"

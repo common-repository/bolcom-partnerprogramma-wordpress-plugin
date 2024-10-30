@@ -1,0 +1,190 @@
+h4 {
+    padding: 4px 8px 4px 8px;
+}
+table {
+    border: 1px #DDD solid;
+    margin-bottom: 5px;
+}
+table td {
+    line-height: 21px;
+}
+#tabs-container {
+    display: none;
+}
+.resultTable {
+    width: 426px;
+}
+
+.selectedProducts {
+    background-color: #F0F0FF;
+    border: 1px solid #A0A0FF;
+    padding: 7px 0 0 15px;
+
+}
+
+.productlist {
+    list-style: none;
+    padding: 5px 0 0 20px;
+}
+
+.selectedProducts .productlist {
+    overflow-y: scroll;
+    height: 435px;
+}
+
+.productlist li {
+    width: 250px;
+    padding: 3px;
+    margin-bottom: 10px;
+    border: 1px solid #d0d0d0;
+    height: 75px;
+    background-color: #FFF;
+    position: relative;
+}
+
+.productlist li .product {
+    text-decoration: none;
+}
+
+.productlist li .productName {
+    font-weight: bolder;
+    float: left;
+    line-height: 16px;
+    width: 200px;
+}
+
+.productlist li .imageBox {
+    float: left;
+}
+
+.productlist li .imageBox img {
+    padding: 5px;
+    width: 36px;
+}
+
+.productlist li .sectionName {
+    clear: both;
+}
+
+.productlist li .oldprice, .widget .productlist li .price{
+    padding: 5px;
+    color: red;
+}
+
+.productlist li .rating {
+    clear: both;
+    padding: 3px;
+}
+.productlist img{
+    border: none;
+}
+.searchResults {
+    padding-top: 20px;
+}
+.searchResults .loader {
+    display: block;
+    height: 22px;
+    margin-left: 40px;
+}
+.searchResults .productlist {
+   height: 449px;
+}
+
+.toggle-product-icon {
+    display: block;
+    position: absolute;
+    top: -8px;
+    right: -10px;
+    width: 24px;
+    height: 24px;
+    background: url(../images/icon_add.gif) top left no-repeat;
+}
+.selectedProducts .toggle-product-icon {
+    background: url(../images/icon_delete_button.gif) top left no-repeat;
+}
+
+.label
+{
+    display: inline-block;
+    padding-bottom: 3px;
+    width: 120px;
+}
+label select{
+    margin-left: -4px;
+}
+.labelOption{
+    margin-top: 5px;
+    display: block;
+}
+.productlist a{
+    outline-style: none;
+}
+.hideElement{
+    display: none;
+}
+#previewDiv {
+    clear: both;
+    padding: 5px 0;
+}
+.previewWidg
+{
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+    overflow-x: scroll;
+}
+.loader {
+    background: url(../../img/loader.gif) 0% 25% no-repeat;
+    padding-left: 20px;
+}
+
+input.updateButton.disabled {
+    color: #BBB;
+}
+input.updateButton.disabled:hover, input.updateButton.disabled:focus {
+    border: 1px solid #BBB;
+}
+
+#bol_previewParent {
+    overflow-y: scroll;
+    height: 615px;
+}
+#cssstyle {
+    width: 300px;
+    height: 100px;
+}
+
+#save-result {
+    padding-left: 10px;
+}
+
+.bol_pml_element {
+    line-height: normal;
+}
+
+#apply {
+    margin-right: 18px;
+}
+
+
+#bolSearchField {
+    width: 150px;
+    background: transparent;
+    font-family: verdana;
+    color: #000;
+    box-shadow: none;
+    margin-right: 3px!important;
+    margin-bottom: 0!important;
+    font-size: 12px!important;
+    line-height: 14px!important;;
+}
+#bolCatSelect {
+    width: 156px;
+    margin-right: 3px;
+}
+#bolSearchSubmit {
+    font-family: verdana;
+    font-size: 12px!important;
+    color: #fff!important;
+    line-height: 16px!important;;
+}
